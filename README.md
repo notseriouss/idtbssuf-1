@@ -7,3 +7,7 @@ cd sss/src
 pip install -r requirements.txt
 python -m main
 ```
+
+
+## Usage
+gameplay is simple, WASD buttons for movement and space for shooting
