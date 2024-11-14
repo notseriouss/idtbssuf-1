@@ -12,6 +12,8 @@ python -m start_bot
 
 
 ## Usage
+BEFORE STARTING THE BOT YOU NEED TO PUT A TELEGRAM TOKEN INTO config.py
+
 1. Стоп - stops current game session
 2. Начать игру - starts new game session if it is not runnig already
 3. /start - to start the bot
