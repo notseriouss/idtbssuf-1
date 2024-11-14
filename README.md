@@ -3,8 +3,9 @@
 
 ```bash
 git clone https://github.com/notseriouss/idtbssuf-1.git sss
-cd sss/src
+cd sss
 pip install -r requirements.txt
+cd src
 python -m main
 ```
 
