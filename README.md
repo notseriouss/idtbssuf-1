@@ -3,16 +3,17 @@
 
 ```bash
 git clone https://github.com/notseriouss/idtbssuf-1.git sss
-cd sss/src
+cd sss
+git branch pr2
 pip install -r requirements.txt
+cd src
 python -m start_bot
 ```
 
 
 ## Usage
-Стоп - stops current game session
-Начать игру - starts new game session if it is not runnig already
-/start - to start the bot
-
-*while game is running and you wanna choose bunch with amount the format is:
+1. Стоп - stops current game session
+2. Начать игру - starts new game session if it is not runnig already
+3. /start - to start the bot
+4. *while game is running and you wanna choose bunch with amount the format is:
 "bunch - amount"
