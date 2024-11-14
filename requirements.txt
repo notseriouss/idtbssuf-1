@@ -1,2 +1,2 @@
 loguru
-pygame
+aiogram
